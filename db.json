@@ -11,7 +11,7 @@
       "name": "Karina Coste"
     }
   ],
-  "account": [
+  "accounts": [
     {
       "id": 123,
       "category": "animal welfare",
@@ -107,7 +107,7 @@
       "organizer": "Carey Wales"
     }
   ],
-  "objective": [
+  "objectives": [
     {
       "id": 123,
       "category": "animal welfare",
