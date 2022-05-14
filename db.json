@@ -3,12 +3,16 @@
     {
       "id": 122,
       "category": "admin",
-      "name": "Pablo Valls"
+      "userName": "pablito",
+      "name": "Pablo Valls",
+      "password": "123456"
     },
     {
       "id": 123,
       "category": "admind",
-      "name": "Karina Coste"
+      "userName": "karinita",
+      "name": "Karina Coste",
+      "password": "123456"
     }
   ],
   "accounts": [
