@@ -1,9 +1,16 @@
 {
-  "users":[ {"id": 122,
+  "users":[ 
+    {
+      "id": 122,
       "category": "admin",
-      "name": "Pablo Valls"}, {"id": 123,
+      "name": "Pablo Valls"}
+    }, 
+    {
+      "id": 123,
       "category": "admind",
-      "name": "Karina Coste"}],
+      "name": "Karina Coste"
+    }
+  ],
   "cuentas": [
     {
       "id": 123,
